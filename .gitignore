@@ -1,3 +1,6 @@
+## Lean 
+.lake/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
