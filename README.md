@@ -24,6 +24,8 @@ lean4_workshop_26winter/
 ## 安装 Lean4 
 参考 [LEAN_INSTALL.md](LEAN_INSTALL.md)
 
+## 作业提交
+参考 [homeworks/README.md](homeworks/README.md)
 
 ## 常用链接
 
