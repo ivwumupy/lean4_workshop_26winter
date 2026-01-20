@@ -7,7 +7,7 @@
 - **参考案例**：`example.md`
 - **提交方式**：按小组提交
 - **文件命名**：`hw1_group_{group_id}.md`
-  - 例如：`hw1_group_A.md`, `hw1_group_B.md` 等
+  - 例如：`hw1_group_1.md`, `hw1_group_2.md` 等
 
 ## GitHub 提交方法（Pull Request）
 
@@ -29,18 +29,18 @@
     ```
 4. **创建分支**
     ```
-    # 以A组为例
-    git checkout -b group_A
+    # 以组1为例
+    git checkout -b group_1
     ```
 5. **编辑作业文件**
-   在 `homeworks` 目录下创建或编辑你的作业文件, 例如：`hw1_group_A.md`
+   在 `homeworks` 目录下创建或编辑你的作业文件, 例如：`hw1_group_1.md`
 6. **提交更改**
     ```bash
     git status      # 查看文件更改状态
     git add .       # 添加所有更改
     git status      # 再次查看文件添加无误
-    git commit -m "Add homework 1 for group A"
-    git push origin group_A
+    git commit -m "Add homework 1 for group 1"
+    git push origin group_1
     ```
 7. **创建 Pull Request**
    - 访问你的 GitHub fork 页面
