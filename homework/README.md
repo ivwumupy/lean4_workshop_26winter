@@ -5,9 +5,15 @@
 ### 作业1
 - **格式**：Markdown (.md)
 - **参考案例**：`example.md`
-- **提交方式**：按小组提交
+- **提交方式**：按小组提交，提交到 `homework/hw1` 目录下
 - **文件命名**：`hw1_group_{group_id}.md`
   - 例如：`hw1_group_1.md`, `hw1_group_2.md` 等
+
+
+### 作业2
+- **格式**：Lean (.lean)
+- **提交方式**：按小组提交，提交到 `homework/hw2` 目录下
+- **文件命名**：`hw2_group_{group_id}.lean`
 
 ## GitHub 提交方法（Pull Request）
 
