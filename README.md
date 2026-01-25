@@ -12,9 +12,10 @@
 ```text
 lean4_workshop_26winter/
 ├── exercises/        # 随堂练习
-├── homework/        # 作业
+├── homework/         # 作业
 ├── materials/        # 参考资料
-├── lecture_notes/            # 讲义
+├── lecture_notes/    # 讲义
+├── seminars/         
 ├── LEAN_INSTALL.md   # Lean环境安装（Windows / macOS）
 ├── .gitignore      
 ├── LICENSE         
